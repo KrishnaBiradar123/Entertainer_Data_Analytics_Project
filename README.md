@@ -1,1 +1,1 @@
-# Data_Analytics_Project
+# Entertainer_Data_Analytics_Project
